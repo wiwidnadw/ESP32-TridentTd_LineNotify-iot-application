@@ -1,10 +1,18 @@
 
- //WiFi Web Server LED Blink
+ //This is program
+//to build IoT Application between ESP32 and Line Notify
+// step by step are explain on YouTube channel
+
+// YouTube channel : Digitalneering
+
+//dont forget to subscribe channel to supporting
+//download TridentTd_LineNotify libraries on Arduino's application
+
 #include <TridentTD_LineNotify.h>
 #include <WiFi.h>
 
 
-#define LINE_TOKEN  "9TkH5aOqD3P2aDhFuatZcDMhQcpDqDXWQnoCtsWPQtL"
+#define LINE_TOKEN  "Your token"
 #define potentio 34
 #define led1 26
 #define led2 27
@@ -13,8 +21,8 @@
 
 
 
-const char* ssid     = "Wiwid";
-const char* password = "Wiwid1230";
+const char* ssid     = "Your SSID";
+const char* password = "Password";
 
 WiFiServer server(80);
 

@@ -8,4 +8,4 @@ The Line Notify is like a doorbell, just ringing after something logical is reac
 For advance tutor, visit my channel on YouTube
 The video explain step by step to create that
 
-YouTube : https://www.youtube.com/watch?v=wTMxDPXjIv4
+YouTube : https://youtu.be/l3-fLBDpXsk
